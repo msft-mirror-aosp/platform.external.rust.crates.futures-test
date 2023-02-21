@@ -13,7 +13,7 @@
 edition = "2018"
 rust-version = "1.45"
 name = "futures-test"
-version = "0.3.25"
+version = "0.3.26"
 description = """
 Common utilities for testing components built off futures-rs.
 """
@@ -26,31 +26,31 @@ repository = "https://github.com/rust-lang/futures-rs"
 all-features = true
 
 [dependencies.futures-core]
-version = "0.3.25"
+version = "0.3.26"
 default-features = false
 
 [dependencies.futures-executor]
-version = "0.3.25"
+version = "0.3.26"
 default-features = false
 
 [dependencies.futures-io]
-version = "0.3.25"
+version = "0.3.26"
 default-features = false
 
 [dependencies.futures-macro]
-version = "=0.3.25"
+version = "=0.3.26"
 default-features = false
 
 [dependencies.futures-sink]
-version = "0.3.25"
+version = "0.3.26"
 default-features = false
 
 [dependencies.futures-task]
-version = "0.3.25"
+version = "0.3.26"
 default-features = false
 
 [dependencies.futures-util]
-version = "0.3.25"
+version = "0.3.26"
 default-features = false
 
 [dependencies.pin-project]
